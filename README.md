@@ -1,2 +1,2 @@
-# kickstarter-analysis
-Kickstarter analysis that study various trends 
+# An Analysis of Kickstarter Campaigns
+Kickstarter analysis that studies various trends 
